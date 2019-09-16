@@ -1,6 +1,7 @@
-<?php 
+<?php //Comentario para cambiar el archivo
 try {
 
+$pepe='';
 $usuario = $_REQUEST["usuario"];
 $password = $_REQUEST["password"];
 $email = $_REQUEST["email"];
